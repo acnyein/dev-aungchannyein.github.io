@@ -1,0 +1,744 @@
+/* Home.html.......................................................................................................*/
+
+/* 1. banner */
+.c1-banner {background-color: #9e83ae;}
+
+.c1-banner p {color: #30004d; font-size: 13px; margin: 0px -12px 0px 0px;}
+
+.c1-banner a {font-size: 13px; color: #30004d;}
+
+.c1-banner a:hover {color: #ffffff;}
+
+.c1-banner .btn-primary {font-size: 13px; background-color: rgba(48, 0, 77,0.8); color: #ffffff; border: none;}
+
+.c1-banner .btn-primary:hover {background-color: #30004d; color: #ffffff;}
+
+.c1-banner .btn-primary:focus {box-shadow: none;}
+
+.c1-banner .banner-align { padding: 5px 0px 5px 0px;}
+
+/* 2. menu bar */
+.bar-color {background-color: #30004d;}
+
+.c2 .Home-color {color: #c769ff;}
+
+.c2 .Categories-color {color: #c769ff;}
+
+.c2 .Authors-color {color: #c769ff;}
+
+.c2 .AddToCart-color {color: #c769ff;}
+
+.c2 .Search-color {color: #c769ff;}
+
+.c2 .fa-bars {font-size: 20px; color: rgba(199, 105, 255, 0.7);}
+
+.c2 .fa-bars:hover {color: #c769ff;}
+
+.c2 .fa-bars:focus {box-shadow: none;}
+
+.c2 h2 {color: #ffffff;}
+
+.c2 ul li a {color: #ffffff; font-size: 15px;}
+
+.c2 ul li a:hover {color: #c769ff;}
+
+.c2 ul li {padding-right: 50px;}
+
+.c2 ul {margin-right: -58px;}
+
+.navbar {padding: 0px;}
+
+.navbar-toggler:focus, .navbar-toggler:active {outline: none; box-shadow: none;}
+
+/* 3. first-page */
+.c3 h1 {padding-top: 160px; text-shadow: 3px 3px 2px #d3d3d3;}
+
+.c3 h6 {padding-top: 50px; text-shadow: 3px 3px 2px #d3d3d3;}
+
+.c3 .first-page-align {padding-top: 80px;}
+
+/* h1. horizontal line 1 */
+.h1 {height: 3px; background-color: #f0f0f0; margin-top: 70px;}
+
+/* 4. Hot New Releases */
+.c4 h4 {margin-top: 60px;}
+
+.c4 hr {border: 1px solid #c769ff; width: 8%;}
+
+.c4 p {font-size: 15px;}
+
+.c4 a {font-size: 14px;}
+
+.c4-card-align {margin-top: 20px;}
+
+/* (Home.html - c4, c5, c6) (Categories.html - c4)*/
+.btn-primary:focus {box-shadow: none;}
+
+.btn-primary {background-color: #ffffff; border-color: #696969; color: #696969;}
+
+.btn-primary:hover {background-color: #30004d; border-color: #30004d; color: #ffffff;}
+
+.card {border-color: #d3d3d3; padding: 10px 10px 0px 10px;}
+
+.card-body {padding: 20px 0px 20px 0px !important;}
+
+.card-deck .card {margin-left: 5px !important; margin-right: 5px !important;}
+
+.card-footer {background-color: #ffffff;}
+
+.carousel-indicators li {background-color: #30004d;}
+
+.carousel-indicators {margin-bottom: -50px;}
+/* /.c4, c5, c6 */
+
+/* card overlay */
+.overlay-img {position: relative; width: 100%; background-color: #30004d;}
+
+.middle {transition: .5s ease; opacity: 0; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); text-align: center;}
+
+.text {color: #ffffff; font-size: 16px; padding: 16px 32px;}
+
+.overlay-img:hover .card-img {opacity: 0.5;} 
+
+.overlay-img:hover .middle { opacity: 1;}
+
+.card-img {opacity: 1; display: block; width: 100%; height: auto; transition: .5s ease; backface-visibility: hidden; }
+/* /.card overlay */
+/* /4. Hot New Releases */
+
+/* h2. horizontal line 2 */
+.h2 {height: 3px; background-color: #f0f0f0; margin-top: 110px;}
+
+/* 5. Books Best Sellers */
+.c5 h4 {margin-top: 60px;}
+
+.c5 hr {border: 1px solid #c769ff; width: 8%;}
+
+.c5 p {font-size: 15px;}
+
+.c5 a {font-size: 14px;}
+
+.c5-card-align {margin-top: 20px;}
+/* /5. Books Best Sellers */
+
+/* h3. horizontal line 3 */
+.h3 {height: 3px; background-color: #f0f0f0; margin-top: 110px;}
+
+/* 6. Recommended Books */
+.c6 h4 {margin-top: 60px;}
+
+.c6 hr {border: 1px solid #c769ff; width: 8%;}
+
+.c6 p {font-size: 15px;}
+
+.c6 a {font-size: 14px;}
+
+.c6-card-align {margin-top: 20px;}
+/* /6. Recommended Books */
+
+/* h4. horizontal line 4 */
+.h4 {height: 3px; background-color: #f0f0f0; margin-top: 110px;}
+
+/* 7. More Info */
+.c7-r1 {margin-top: 60px;}
+
+.c7-vl {border: 1px solid #f0f0f0; height: 100px; margin-top: 20px;}
+
+.c7-align h6 {padding-top: 30px; color: #575757;}
+
+.c7-align small {color: #696969;}
+/* /7. More Info */
+
+/* 8. Footer */
+.c8 {background-color: #30004d; margin-top: 60px;}
+
+.c8 .fa {font-weight: 100; font-size: 10px;}
+
+.c8 small {color: #ffffff; font-size: 12px;}
+
+.c8 ul li a {color: #ffffff; font-size: 12px;}
+
+.c8 ul li a:hover {color: #c769ff;}
+
+.c8 ul li {padding: 18px 20px 0px 0px;}
+
+.c8-vl {border-left: 1px solid grey; height: 15px; margin-top: 20px;}
+
+.c8-align h6 {padding-top: 30px;}
+/* /8. Footer */
+
+/* /Home.html......................................................................................................*/
+
+/* categories.html.................................................................................................*/
+
+/* c3-categories-container */
+.c3-categories a {font-size: 14px;}
+
+.c3-categories .r1 {margin-top: 30px;}
+
+.c3-categories .btn-primary:focus {box-shadow: none;}
+
+.c3-categories .btn-primary {background-color: #ffffff; border-color: #30004d; color: #30004d;}
+
+.c3-categories .btn-primary:hover {background-color: #30004d; border-color: #30004d; color: #ffffff;}
+/* c3-categories-container */
+
+/* h5. horizontal line 5 */
+.h5 {height: 5px; background-color: #f0f0f0; margin-top: 30px;}
+
+/* 4. c4-nav-tab */
+.c4-nav-tab p {font-size: 15px;}
+
+.c4-nav-tab a {font-size: 14px;}
+
+.c4-nav-tab .nav-sticky {position: sticky; top: 59px; z-index: 1; background-color: #fff;}
+
+.c4-nav-tab {margin-top: 40px;}
+
+.c4-nav-tab .nav-tabs a {font-size: 20px;}
+
+.c4-nav-tab #tabs .nav-tabs .nav-item.show .nav-link {color: #000000 !important; font-size: 16px;}
+
+.c4-nav-tab .tab-pane {padding-top: 30px;}
+
+.c4-nav-tab .nav-tabs {border-bottom: 1px solid #30004d;}
+
+.c4-nav-tab .nav-link {color: #000000 !important; font-size: 16px; font-weight: 600;}
+
+.c4-nav-tab .nav-tabs .nav-link.active {
+	color: #000000;
+	border-top: 1px solid #30004d; border-bottom: 1px solid #fff;
+	border-right: 1px solid #30004d; border-left: 1px solid #30004d;
+}
+
+.c4-nav-tab .nav-link:hover {
+	border-top: 1px solid #fff; border-bottom: 1px solid #30004d;
+	border-right: 1px solid #fff;border-left: 1px solid #fff;
+}
+/* /4. c4-nav-tab */
+
+/* /categories.html................................................................................................*/
+
+/* authors.html....................................................................................................*/
+
+/* c3-authors-container */
+.c3-authors a {font-size: 14px;}
+
+.c3-authors .r1 {margin-top: 30px;}
+
+.c3-authors .btn-primary:focus {box-shadow: none;}
+
+.c3-authors .btn-primary {background-color: #ffffff; border-color: #30004d; color: #30004d;}
+
+.c3-authors .btn-primary:hover {background-color: #30004d; border-color: #30004d; color: #ffffff;}
+/* /c3-authors-container */
+
+/* h6. horizontal line 6 */
+.h6 {height: 5px; background-color: #f0f0f0; margin-top: 30px;}
+
+/* 4.Famous Authors' Books */
+.c4-author-align a {font-size: 14px;}
+
+.c4-author-align p {font-size: 14px;}
+
+.c4-card-deck-1-align {margin-top: 35px;}
+
+.c4-card-deck-2-align {margin-top: 40px;}
+
+.c4-author-align {margin-top: 40px;}
+
+.c4-author-align hr {border: 1px solid #c769ff; width: 8%;}
+/* /4. Famous Authors' Books */
+
+/* /authors.html...................................................................................................*/
+
+/* arts & music.html...............................................................................................*/
+
+/* h7. horizontal line 7 */
+.h7 {height: 5px; background-color: #f0f0f0; margin-top: 30px;}
+
+/* 3. sub-categories-container */
+.c3-sub-categories a {font-size: 14px;}
+
+.c3-sub-categories .r1 {margin-top: 30px;}
+
+.c3-sub-categories .btn-primary:focus {box-shadow: none;}
+
+.c3-sub-categories .btn-primary {background-color: #ffffff; border-color: #30004d; color: #30004d;}
+
+.c3-sub-categories .btn-primary:hover {background-color: #30004d; border-color: #30004d; color: #ffffff;}
+
+.c3-sub-categories a.arts-music {background-color: #30004d; border-color: #30004d; color: #fff;}
+/* /3. sub-categories-container */
+
+/* 4. arts-music-breadcrumb */
+.c4-arts-music-breadcrumb .breadcrumb-item a {text-decoration: none; color: #30004d;}
+
+.c4-arts-music-breadcrumb .breadcrumb-item.active {color: #c769ff;}
+
+.c4-arts-music-breadcrumb .breadcrumb {background-color: #fff; padding: 0rem;}
+
+.c4-arts-music-breadcrumb .breadcrumb-item+.breadcrumb-item::before {content: ">"; color: #30004d;}
+/* /4. arts-music-breadcrumb */
+
+/* 5. Arts & Music section */
+.c5-arts-music hr {border: 1px solid #c769ff; width: 8%;}
+
+.c5-arts-music a {font-size: 14px;}
+
+.c5-arts-music p {font-size: 14px;}
+
+.c5-arts-music small {font-size: 12px; color: #30004d;}
+
+.c5-arts-music h6 {font-size: 15px;}
+
+.c5-arts-music .sidebar {background-color: #f9f9f9; padding: 15px 15px 15px 15px; position: sticky; top: 80px;}
+
+.c5-arts-music h5 {margin-left: -10px;}
+
+/* col-1 */
+.c5-arts-music ul.book-ul li a:hover {color: #c769ff;}
+
+.c5-arts-music ul.book-ul li a:hover .book-arrow {color: #c769ff; opacity: 1;}
+
+.c5-arts-music ul.book-ul li a {color: #30004d;}
+
+.c5-arts-music ul.book-ul li a .book-arrow {opacity: 0; margin-top: 8px; font-size: 12px;}
+/* /col-1 */
+
+.c5-arts-music .HNR-align {margin-top: 25px;}
+
+.c5-arts-music .BBS-align {margin-top: 40px;}
+
+.c5-arts-music .RB-align {margin-top: 40px;}
+
+.c5-card-deck-1-align {margin-top: 10px;}
+
+.c5-card-deck-2-align {margin-top: 10px;}
+
+.c5-card-deck-3-align {margin-top: 10px;}
+
+.c5-arts-music .content-align {margin-top: -15px;}
+/* /5. Arts & Music section */
+
+/* /arts & music.html..............................................................................................*/
+
+/* music books.html................................................................................................*/
+
+/* 5. Music Book section */
+.c5-music-book hr {border: 1px solid #c769ff; width: 8%;}
+
+.c5-music-book a {font-size: 14px;}
+
+.c5-music-book p {font-size: 14px;}
+
+/*.c5-music-book small {font-size: 12px; color: #30004d;}*/
+
+.c5-music-book h6 {font-size: 15px;}
+
+.c5-music-book .sidebar {background-color: #f9f9f9; padding: 15px 15px 15px 15px; position: sticky; top: 80px;}
+
+/*.c5-music-book h5 {margin-left: -10px;}*/
+
+/* col-1 */
+.c5-music-book ul.book-ul li a:hover {color: #c769ff;}
+
+.c5-music-book ul.book-ul li a:hover .book-arrow {color: #c769ff; opacity: 1;}
+
+.c5-music-book ul.book-ul li a {color: #30004d;}
+
+.c5-music-book ul.book-ul li a.active {color: #c769ff;}
+
+.c5-music-book ul.book-ul li a .book-arrow {opacity: 0; margin-top: 7.5px; font-size: 12px;}
+
+.c5-music-book ul.book-ul li a.active .book-arrow {opacity: 1;}
+/* /col-1 */
+
+.c5-music-book .HNR-align {margin-top: 10px; margin-left: -10px;}
+
+.c5-music-book .BBS-align {margin-top: 40px; margin-left: -10px;}
+
+.c5-music-book .RB-align {margin-top: 40px; margin-left: -10px;}
+
+.c5-music-book .content-align small {margin-top: -15px; font-size: 10px;}
+
+.c5-music-book .details-content-align {margin-top: -15px; margin-left: -10px;}
+
+.c5-music-book h5.text-align {margin-top: 10px;}
+
+/*.c5-music-book h5.text-align {margin-left: -10px;}*/
+
+/*.c5-music-book h5 {margin-left: -10px;}*/
+
+.c5-music-book a.SeeMore-btn {margin-top: 30px; font-size: 13px; background-color: rgba(48, 0, 77,0.8); color: #ffffff; border: none;}
+
+.c5-music-book a.SeeMore-btn:hover {background-color: #30004d; color: #ffffff;}
+
+.c5-music-book a.SeeMore-btn:focus {box-shadow: none;}
+
+.c5-mb-card-1-align {margin-top: 10px;}
+
+.c5-mb-card-2-align {margin-top: 30px;}
+
+.c5-mb-card-3-align {margin-top: 30px;}
+
+/* /5. Music Book section */
+
+/* /music books.html...............................................................................................*/
+
+/* william shake speare.html.......................................................................................*/
+
+/* c3-authors-container */
+.c3-author-details a {font-size: 14px;}
+
+.c3-author-details .r1 {margin-top: 30px;}
+
+.c3-author-details .btn-primary:focus {box-shadow: none;}
+
+.c3-author-details .btn-primary {background-color: #ffffff; border-color: #30004d; color: #30004d;}
+
+.c3-author-details .btn-primary:hover {background-color: #30004d; border-color: #30004d; color: #ffffff;}
+
+.c3-author-details a.william-ss {background-color: #30004d; border-color: #30004d; color: #fff;}
+
+/* /c3-authors-container */
+
+/* h8. horizontal line 8 */
+.h8 {height: 5px; background-color: #f0f0f0; margin-top: 30px;}
+
+/* 4. william-ss-breadcrumb */
+.c4-william-ss-breadcrumb .breadcrumb-item a {text-decoration: none; color: #30004d;}
+
+.c4-william-ss-breadcrumb .breadcrumb-item.active {color: #c769ff;}
+
+.c4-william-ss-breadcrumb .breadcrumb {background-color: #fff; padding: 0rem;}
+
+.c4-william-ss-breadcrumb .breadcrumb-item+.breadcrumb-item::before {content: ">"; color: #30004d;}
+/* /4. william-ss-breadcrumb */
+
+/* 5. william shake speare */
+.c4-william-ss-align a {font-size: 14px;}
+
+.c4-william-ss-align p {font-size: 14px;}
+
+.c4-william-ss-align hr {border: 1px solid #c769ff; width: 8%;}
+/* /5. william shake speare  */
+
+/* /william shake speare.html......................................................................................*/
+
+/* home - book details.html........................................................................................*/
+
+.c3-book-details {border: 1px solid #c769ff; margin-top: 30px;}
+
+.c3-book-details a.add-to-cart {font-size: 14px; background-color: #ffffff; border-color: #30004d; color: #30004d; /*padding: 3px 10px 3px 10px;*/}
+
+.c3-book-details a.add-to-cart:hover {background-color: #30004d; border-color: #30004d; color: #ffffff;}
+
+.c3-book-details a.purchase {font-size: 14px; background-color: rgba(48, 0, 77,0.8); color: #ffffff; border: 1px solid #30004d; /*padding: 3px 18px 3px 18px;*/ margin-top: 5px;}
+
+.c3-book-details a.purchase:hover {background-color: #30004d; color: #ffffff;}
+
+.c3-book-details a.btn-sm:focus {box-shadow: none;}
+
+.c3-book-details .card {border: none;}
+
+.c3-book-details small {font-size: 13px;}
+
+.c3-book-details .book-content {margin-top: 10px;}
+
+.c3-book-details .ReadMore-color {color: #c769ff;}
+
+/* 4. related books */
+.c4-related-books a {font-size: 14px;}
+
+.c4-related-books p {font-size: 14px;}
+
+.c4-related-books .Related-Books-align {margin-top: 50px; margin-left: -17px;}
+
+.c4-related-books .card-deck {margin-left: -21px;}
+
+.c4-related-books .c4-related-book-card-deck-align {margin-top: 15px;}
+/* /4. related books */
+
+/* 5. more by authors */
+.c5-more-by-authors a {font-size: 14px;}
+
+.c5-more-by-authors p {font-size: 14px;}
+
+.c5-more-by-authors .Related-Books-align {margin-top: 50px; margin-left: -17px;}
+
+.c5-more-by-authors .card-deck {margin-left: -21px;}
+
+.c5-more-by-authors .c5-more-by-authors-card-deck-align {margin-top: 15px;}
+/* /5. more by authors */
+
+/* h9. horizontal line 9 */
+.h9 {height: 5px; background-color: #f0f0f0; margin-top: 60px;}
+
+/* /home - book details.html.......................................................................................*/
+
+
+
+/* iPad (768 * 1024)............................................................................................*/
+@media (width: 768px) {
+
+.navbar-nav .nav-link {margin-left: -20px;}
+
+.c1-banner a {margin-left: -40px;}
+
+.c3 h1 {font-size: 30px; padding-top: 90px;}
+.c3 h6 {font-size: 12px;}
+.c3 .first-page-align {padding-top: 50px;}
+.c3-authors .btn-primary {font-size: 8px; padding: 3px 2px 3px 2px;}
+.c3-author-details .btn-primary {font-size: 8px; padding: 3px 2px 3px 2px;}
+.c3-categories .btn-primary {font-size: 8px; padding: 3px 2px 3px 2px;}
+.c3-sub-categories .btn-primary {font-size: 8px; padding: 3px 2px 3px 2px;}
+.c3-book-details a.add-to-cart {font-size: 7px;}
+.c3-book-details a.purchase {font-size: 7px;}
+
+.c4 strong {font-size: 12px;}
+.c4 p {font-size: 10px; margin-bottom: 10px;}
+.c4 a {font-size: 7px;}
+.c4-nav-tab strong {font-size: 12px;}
+.c4-nav-tab p {font-size: 10px; margin-bottom: 10px;}
+.c4-nav-tab a {font-size: 7px;}
+.c4-nav-tab h4 {font-size: 20px;}
+.c4-related-books strong {font-size: 12px;}
+.c4-related-books p {font-size: 10px; margin-bottom: 10px;}
+.c4-related-books a {font-size: 7px;}
+.c4-author-align strong {font-size: 12px;}
+.c4-author-align p {font-size: 10px; margin-bottom: 10px;}
+.c4-author-align a {font-size: 7px;}
+
+.c5 strong {font-size: 12px;}
+.c5 p {font-size: 10px; margin-bottom: 10px;}
+.c5 a {font-size: 7px;}
+.c5-more-by-authors strong {font-size: 12px;}
+.c5-more-by-authors p {font-size: 10px; margin-bottom: 10px;}
+.c5-more-by-authors a {font-size: 7px;}
+.c5-arts-music strong {font-size: 11px;}
+.c5-arts-music p {font-size: 10px; margin-bottom: 10px;}
+.c5-arts-music a {font-size: 7px;}
+.c5-arts-music h6 {font-size: 15px;}
+.c5-arts-music ul.book-ul li a {font-size: 13px;}
+
+.c5-music-book strong {font-size: 10px;}
+.c5-music-book p {font-size: 9px; margin-bottom: 10px;}
+.c5-music-book a {font-size: 6px;}
+.c5-music-book h6 {font-size: 15px;}
+.c5-music-book ul.book-ul li a {font-size: 13px;}
+.c5-music-book .book-content h4 {font-size: 20px;}
+.c5-music-book .book-content h5 {font-size: 20px;}
+
+.c6 strong {font-size: 12px;}
+.c6 p {font-size: 10px; margin-bottom: 10px;}
+.c6 a {font-size: 7px;}
+
+.c7-align h6 {font-size: 15px;}
+.c7-align small {font-size: 8px;}
+
+}
+
+/* iPad Pro (1024 * 1366)....................................................................................*/
+@media (width: 1024px) {
+
+.c3 h1 {padding-top: 130px;}
+.c3-authors .btn-primary {font-size: 10px;}
+.c3-author-details .btn-primary {font-size: 10px;}
+.c3-categories .btn-primary {font-size: 10px;}
+.c3-sub-categories .btn-primary {font-size: 10px;}
+
+.c4 strong {font-size: 14px;}
+.c4 p {font-size: 12px;}
+.c4 a {font-size: 11px;}
+.c4-nav-tab strong {font-size: 14px;}
+.c4-nav-tab p {font-size: 12px;}
+.c4-nav-tab a {font-size: 11px;}
+.c4-related-books strong {font-size: 14px;}
+.c4-related-books p {font-size: 12px;}
+.c4-related-books a {font-size: 11px;}
+.c4-author-align strong {font-size: 14px;}
+.c4-author-align p {font-size: 12px;}
+.c4-author-align a {font-size: 11px;}
+
+.c5 strong {font-size: 14px;}
+.c5 p {font-size: 12px;}
+.c5 a {font-size: 11px;}
+.c5-more-by-authors strong {font-size: 14px;}
+.c5-more-by-authors p {font-size: 12px;}
+.c5-more-by-authors a {font-size: 11px;}
+.c5-arts-music h6 {font-size: 13px;}
+.c5-arts-music a {font-size: 12px;}
+.c5-music-book h6 {font-size: 13px;}
+.c5-music-book a {font-size: 11px;}
+.c5-music-book ul.book-ul li a {font-size: 12px;}
+
+.c6 strong {font-size: 14px;}
+.c6 p {font-size: 12px;}
+.c6 a {font-size: 11px;}
+
+.c7-align small {font-size: 12px;}
+.c7-align small {font-size: 12px;}
+
+}
+
+/* Mobile (less than euqal to 576px)...............................................................................................*/
+@media (max-width: 575.98px) {
+
+.navbar-nav .nav-link {margin-left: 20px;}
+
+.c1-banner p {font-size: 10px;}
+
+.c2 h2 {margin-left: 10px; font-size: 25px;}
+
+.c3 .first-page-align {padding-top: 45px;}
+.c3 h1 {font-size: 12px; padding-top: 25px;}
+.c3 h6 {font-size: 6px; padding-top: 12px;}
+.c3 .first-page-align {padding-top: 25px;}
+
+.h1 {margin-top: 25px; height: 1px;}
+.h2 {margin-top: 13px; height: 1px;}
+.h3 {margin-top: 13px; height: 1px;}
+.h4 {margin-top: 13px; height: 1px;}
+
+.card-deck {flex-flow: row wrap; }
+.card-body {padding: 10px 0px 15px 0px !important; line-height: 10px;}
+.card-footer {padding: 10px 0px;}
+
+.c4 strong {font-size: 10px;}
+.c4 p {font-size: 10px; margin-bottom: 5px;}
+.c4 a {font-size: 8px;}
+.c4 h4 {font-size: 15px; margin-top: 20px;}
+.c4 hr {width: 15%; margin-top: 10px;}
+
+.fa-chevron-left:before {color: #c769ff; font-size: 20px; margin-left: 5px;}
+.carousel-control-prev {left: -25px !important;}
+.fa-chevron-right:before {color: #c769ff; font-size: 20px; margin-right: 5px;}
+.carousel-control-next {right: -25px !important;}
+
+.c5-card-align {margin-top: 5px;}
+
+.c7-align h6 {font-size: 9px; padding: 10px 0px 0px 0px;}
+.c7-align small {font-size: 7px;}
+.c7-r1 {margin-top: 40px;}
+.c7-r2 {margin-top: 20px;}
+.c7-vl {border: 0.8px solid #f0f0f0; height: 80px; margin-top: 15px;}
+.title {margin-bottom: 0px;}
+
+.c8 {margin-top: 40px;}
+.c8 small {font-size: 10px; padding-bottom: 15px;}
+.c8 ul li a {font-size: 9px;}
+.c8 ul li {padding: 0px; margin-top: 5px;}
+.c8 ul li.c8-vl {border: 0.5px solid grey; height: 8px;}
+.c8 .fa {font-weight: 100; font-size: 7px;}
+
+.c3-book-details {border: none; padding: 0px 5px;}
+.c3-book-details .color {border: 1px solid #c769ff; margin-top: 30px;}
+.c3-book-details .col-3 {padding: 0px;}
+.c3-book-details .col-9 {padding: 0px;}
+.c3-book-details h4 {font-size: 15px;}
+.c3-book-details h5 {font-size: 15px; margin-top: 30px;}
+.c3-book-details .p-align {margin-top: 20px;}
+.c3-book-details .p-height {font-size: 10px; line-height: 1px;}
+.c3-book-details .small-height {line-height: 17px; margin-top: -10px;}
+.c3-book-details small {font-size: 10px;}
+.c3-book-details p {font-size: 10px; line-height: 17px;}
+.c3-book-details a.add-to-cart {font-size: 8px; padding: 3px 3px;}
+.c3-book-details a.purchase {font-size: 8px; padding: 3px 3px;}
+
+.c4-arts-music-breadcrumb {font-size: 70%;}
+.c4-william-ss-breadcrumb {font-size: 70%;}
+
+.cc-mobile .fa-chevron-left:before {color: #c769ff; font-size: 15px; margin-left: 5px;}
+.cc-mobile .carousel-control-prev {left: -35px !important;}
+.cc-mobile .fa-chevron-right:before {color: #c769ff; font-size: 15px; margin-right: 5px;}
+.cc-mobile .carousel-control-next {right: -35px !important;}
+
+
+.cc-mobile a {font-size: 10px;}
+.cc-mobile .r1 {margin-top: 17px;}
+.cc-mobile .r2 {margin-top: 17px;}
+.cc-mobile .r3 {margin-top: 17px;}
+.cc-mobile {margin-top: 10px;}
+.cc-mobile ul li {margin-left: -8px; margin-right: -8px;}
+.cc-mobile .btn-primary:focus {box-shadow: none;}
+.cc-mobile .btn-primary {background-color: #ffffff; border-color: #30004d; color: #30004d; padding: 4px 3px;}
+.cc-mobile .btn-primary:hover {background-color: #30004d; border-color: #30004d; color: #ffffff;}
+.cc-mobile a.william-ss {background-color: #30004d; border-color: #30004d; color: #fff;}
+.cc-mobile a.arts-music {background-color: #30004d; border-color: #30004d; color: #fff;}
+
+.c4-nav-tab {margin-top: 20px;}
+.c4-nav-tab .nav-sticky {position: sticky; top: 49px; z-index: 1; background-color: #fff;}
+.c4-nav-tab h4 {font-size: 9px; margin: 4px 0px;}
+.c4-nav-tab .nav-link {padding: 0px 0px;}
+.c4-nav-tab .c4-tab-size {padding: 0px 5px;}
+.c4-nav-tab .container-fluid {padding: 0px 0px;}
+.c4-nav-tab strong {font-size: 10px;}
+.c4-nav-tab p {font-size: 10px; margin-bottom: 5px;}
+.c4-nav-tab a {font-size: 8px;}
+.c4-nav-tab .card-deck .card {margin-left: 1px !important; margin-right: 1px !important;}
+.c4-nav-tab .c5-card-align {margin-top: -5px;}
+
+.c4-author-align {padding: 0px 0px; margin-top: 30px;}
+.c4-author-align h3 {font-size: 16px;}
+.c4-author-align hr {margin-top: 0px;}
+.c4-author-align strong {font-size: 10px;}
+.c4-author-align p {font-size: 10px; margin-bottom: 5px;}
+.c4-author-align a {font-size: 8px;}
+.c4-author-align h4 {font-size: 15px; margin-top: 20px;}
+.c4-author-align hr {width: 15%; margin-top: 10px;}
+.c4-author-align .FAB-size {padding: 0px 5px;}
+.c4-author-align .card-deck .card {margin-left: 1px !important; margin-right: 1px !important;}
+
+.sp-mobile-arts-music h3 {font-size: 16px;}
+.sp-mobile-arts-music hr {margin-top: 0px; border: 1px solid #c769ff; width: 8%;}
+
+.sp-mobile-arts-music .sp-mobile .sidepanel {
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	height: 100%;
+	top: 74px;
+	left: 0;
+	background-color: rgba(48, 0, 77,0.7);
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding-top: 50px;
+}
+
+.sp-mobile .fa-times {margin-right: 10px;}
+.sp-mobile .sidepanel h6 {color: #fff; font-size: 14px; padding-left: 5px; margin-top: -25px;}
+.sp-mobile .sidepanel ul.book-ul li a {padding: 2px 10px; text-decoration: none; font-size: 12px; color: #fff; display: block; transition: 0.3s;}
+.sp-mobile .sidepanel ul.book-ul li a:hover {color: #c769ff;}
+.sp-mobile .sidepanel ul.book-ul li a:hover .book-arrow {color: #c769ff; opacity: 1;}
+.sp-mobile .sidepanel ul.book-ul li a .book-arrow {opacity: 0; margin-top: 3px; margin-right: 0px; float: right;}
+.sp-mobile .sidepanel .fa-chevron-right:before {font-size: 10px;}
+.sp-mobile .sidepanel ul.book-ul li a.active {color: #c769ff;}
+.sp-mobile .sidepanel ul.book-ul li a.active .book-arrow {opacity: 1;}
+
+
+/*button*/
+.sp-mobile .sidepanel .closebtn {position: absolute; top: 0; right: 0; font-size: 20px; color: #c769ff;}
+.sp-mobile .openbtn {font-size: 9px; cursor: pointer; background-color: rgba(48, 0, 77,0.9); color: #fff; padding: 5px 5px; border: none; margin-top: 20px;}
+.sp-mobile .openbtn:hover {background-color:#30004d;}
+.sp-mobile .openbtn:focus {outline: none;}
+/*button*/
+
+.sp-mobile-arts-music .c4-tab-size h5 {font-size: 14px;}
+.sp-mobile-arts-music .c4-tab-size small {font-size: 8px;}
+.sp-mobile-arts-music .c4-tab-size .HNR-align {margin-top: 15px;}
+.sp-mobile-arts-music .c4-tab-size .BBS-align {margin-top: 20px;}
+.sp-mobile-arts-music .c4-tab-size .RB-align {margin-top: 20px;}
+.sp-mobile-arts-music .c4-tab-size {padding: 0px 3px;}
+.sp-mobile-arts-music .container-fluid {padding: 0px 0px;}
+.sp-mobile-arts-music strong {font-size: 10px;}
+.sp-mobile-arts-music p {font-size: 10px; margin-bottom: 5px;}
+.sp-mobile-arts-music a {font-size: 8px;}
+.sp-mobile-arts-music .card-deck .card {margin-left: 1px !important; margin-right: 1px !important;}
+.sp-mobile-arts-music .c5-card-align {margin-top: 5px;}
+.sp-mobile-arts-music .c5-card-1-align {margin-top: 20px;}
+
+.c5-music-book h3 {font-size: 16px;}
+.c5-music-book hr {margin-top: 0px;}
+
+}
