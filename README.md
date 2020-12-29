@@ -1,2 +1,3 @@
 # acnyein.github.io
-This is the book library.
+
+This is the book library project written in HTML, CSS, JavaScript.
